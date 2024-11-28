@@ -8,11 +8,9 @@ function App() {
   const handleAddHabit = (habitName) => {
     // TODO: write code to add a new habit here
   };
-
   const handleToggleHabit = (id) => {
     // TODO: write code to toggle a habit's status
   };
-
   const handleDeleteHabit = (id) => {
     // TODO: write code to delete a habit
   };
